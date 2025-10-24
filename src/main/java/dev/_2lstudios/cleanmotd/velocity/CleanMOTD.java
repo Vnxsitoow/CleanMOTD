@@ -27,7 +27,7 @@ import ninja.leaping.configurate.objectmapping.ObjectMappingException;
     name = "CleanMOTD",
     version = "0.2.8",
     description = "Simple MOTD customization plugin.",
-    authors = ("2LS")
+    authors = ("Vnxsitoow")
 )
 public final class CleanMOTD {
     private final Path path;
